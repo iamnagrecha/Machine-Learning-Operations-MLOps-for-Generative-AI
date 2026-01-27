@@ -5,7 +5,7 @@ MLOps, helps operationalize ML Systems
 
 Predictive & Generative AIs
 
-Predictive- can't generate new contents, relys on pre-exsisting data, ex- regression, classification etc.
+Predictive- can't generate new contents, relying on pre-exsisting data, ex- regression, classification etc.
 Gen AI- can produce new & original contents, by learning from existing data.
 
 Traditional ML Workflow

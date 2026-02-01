@@ -1,4 +1,17 @@
 Navigating GenAi
 
-Increased AI Infra for pretrained Models
+Challenges
+
+1) Increased AI Infra for pretrained Models
 Use Vertex AI to mitigate the above
+
+- Model Garden
+- Vertex AI Generative Studio-> GUI takes care of underline infrastructure
+
+2) Customizing & tuning models
+
+- SUpervised tuning
+- Reinforcement learning with human feedback
+- Data curation
+
+3) Managing new artifacts

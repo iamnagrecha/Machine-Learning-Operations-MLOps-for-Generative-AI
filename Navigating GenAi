@@ -15,3 +15,13 @@ Use Vertex AI to mitigate the above
 - Data curation
 
 3) Managing new artifacts
+
+- Vertex AI Feature Store
+- Vertex Model Registry
+- Vertex AI Pipelines
+
+4) Navigating evaluation & monitoring
+
+- New evaluation metrics
+- safety scores
+- Recitation check
